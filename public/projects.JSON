@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Online Movie Booking Web App",
+        "image-src": "../assets/projects/movies.jpg",
+        "description": "Developed a web app for users to browse movies, reserve seats, and for admins to manage movies and shows. Hosted and handled authentication using Google Firebase.",
+        "technologies": "HTML, CSS, JavaScript, Firebase",
+        "link":"#"
+    },
+    {
+        "name": "Cloud Deployment",
+        "image-src": "../assets/projects/movies.jpg",
+        "description": "Deployed Web app using Firebase, alongside integrating Firebase authentication. Hosted static web pages using Google Cloud Buckets.",
+        "technologies": "Firebase, Google Cloud",
+        "link":"https://google.com"
+    },
+    {
+        "name": "Android App Development - Calculator",
+        "image-src": "../assets/projects/ca.jpeg",
+        "description": "Developed Calculator app using Kotlin programming language with Android Studio.",
+        "technologies": "Kotlin, Android Studio",
+        "link":"#"
+    },
+    {
+        "name": "Android App Development - Password Generator",
+        "image-src": "../assets/projects/pass-gen.png",
+        "description": "Developed Password Generator app using Java programming language with Android Studio.",
+        "technologies": "Java, Android Studio",
+        "link":"#"
+    },
+    {
+        "name": "Cloud Deployment",
+        "image-src": "../assets/projects/movies.jpg",
+        "description": "Deployed Web app using Firebase, alongside integrating Firebase authentication. Hosted static web pages using Google Cloud Buckets.",
+        "technologies": "Firebase, Google Cloud",
+        "link":"https://google.com"
+    },
+    {
+        "name": "Android App Development - Calculator",
+        "image-src": "../assets/projects/ca.jpeg",
+        "description": "Developed Calculator app using Kotlin programming language with Android Studio.",
+        "technologies": "Kotlin, Android Studio",
+        "link":"#"
+    },
+    {
+        "name": "Android App Development - Password Generator",
+        "image-src": "../assets/projects/pass-gen.png",
+        "description": "Developed Password Generator app using Java programming language with Android Studio.",
+        "technologies": "Java, Android Studio",
+        "link":"#"
+    }
+]
